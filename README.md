@@ -4,6 +4,7 @@
 提供 epub, txt, html, xml, xhtml 文件的繁简转换功能；
 
 ![ ](https://raw.githubusercontent.com/zxsama/epubcst/master/File/epubcst.jpg)
+
 # 环境
 > Python 3.8.1 64-bit
 > 
@@ -11,6 +12,7 @@
 
 # 有效文件
 `CSTGUI.py` 与 `MainProcessGUI.py`
+
 其他的不重要
 
 # 碎碎念
