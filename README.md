@@ -5,6 +5,10 @@
 
 ![ ](https://raw.githubusercontent.com/zxsama/epubcst/master/File/epubcst.jpg)
 
+# 下载
+
+https://github.com/zxsama/epubcst/releases
+
 # 环境
 > Python 3.8.1 64-bit
 > 
