@@ -3,6 +3,7 @@
 
 提供 epub, txt, html, xml, xhtml 文件的繁简转换功能；
 
+![ ](https://raw.githubusercontent.com/zxsama/epubcst/master/File/epubcst.jpg)
 # 环境
 > Python 3.8.1 64-bit
 > 
@@ -14,6 +15,9 @@
 
 # 碎碎念
 写这玩意的起因大概是闲的；
+
 python的多线程四舍五入等于没有；
+
 python的gui我应该不会再用第二次了；
+
 还是太菜；
