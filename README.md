@@ -3,6 +3,8 @@
 
 提供 epub, txt, html, xml, xhtml 文件的繁简转换功能；
 
+# 界面
+
 ![ ](https://raw.githubusercontent.com/zxsama/epubcst/master/File/epubcst.jpg)
 
 # 下载
@@ -10,9 +12,9 @@
 https://github.com/zxsama/epubcst/releases
 
 # 环境
-> Python 3.8.1 64-bit
+> Python 3 64-bit
 > 
-> opencc-python
+> [opencc-python](https://github.com/yichen0831/opencc-python/tree/master/opencc, 'opencc-python')
 
 # 有效文件
 `CSTGUI.py` 与 `MainProcessGUI.py`
