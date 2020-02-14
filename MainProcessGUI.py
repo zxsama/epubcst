@@ -248,7 +248,7 @@ class CSTProcess:
         file_name_suffix = file_info[0]
         file_path_deal = file_info[2]
 
-        if(file_name_suffix == 'epub' or file_name_suffix == 'EQUB'):
+        if(file_name_suffix == 'epub' or file_name_suffix == 'EPUB'):
             # epub解包后需要转换的文件类型有xml, html, xhtml, opf
             self.__epub_file_deal(file_path)
 
